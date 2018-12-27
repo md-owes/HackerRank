@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{B21C48DE-8E37-4065-B4A1-E0F8507F167A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21C48DE-8E37-4065-B4A1-E0F8507F167A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21C48DE-8E37-4065-B4A1-E0F8507F167A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21C48DE-8E37-4065-B4A1-E0F8507F167A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21C48DE-8E37-4065-B4A1-E0F8507F167A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3670E696-900C-4F2B-85B1-D1BFBE2C41F7}
+	EndGlobalSection
+EndGlobal
